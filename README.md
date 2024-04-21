@@ -1,5 +1,6 @@
 # Performance
 
+
 ## Javascript
 
 ### Talks
@@ -20,6 +21,8 @@
 
 #### Memory management
 [Visualised guide to memory management in JavaScript - Kateryna Porshnieva](https://youtu.be/OG_AZnPokGw?si=Y_8GsGq4PptZhZRh)
+
+[The Hitchhiker's Guide to All Things Memory in JS - Safia Abdalla](https://youtu.be/cpM5LYZdfUo?si=R1hvWkJlM5mCMdkR)
 
 ### Free courses
 [Browser Rendering Optimization - Udacity](https://www.udacity.com/course/browser-rendering-optimization--ud860)
